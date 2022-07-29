@@ -1,0 +1,15 @@
+E:\workspace\POO C#\04ExercicioIMC\obj\Debug\net6.0\04Exercicio.csproj.AssemblyReference.cache
+E:\workspace\POO C#\04ExercicioIMC\obj\Debug\net6.0\04Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\POO C#\04ExercicioIMC\obj\Debug\net6.0\04Exercicio.AssemblyInfoInputs.cache
+E:\workspace\POO C#\04ExercicioIMC\obj\Debug\net6.0\04Exercicio.AssemblyInfo.cs
+E:\workspace\POO C#\04ExercicioIMC\obj\Debug\net6.0\04Exercicio.csproj.CoreCompileInputs.cache
+E:\workspace\POO C#\04ExercicioIMC\bin\Debug\net6.0\04Exercicio.exe
+E:\workspace\POO C#\04ExercicioIMC\bin\Debug\net6.0\04Exercicio.deps.json
+E:\workspace\POO C#\04ExercicioIMC\bin\Debug\net6.0\04Exercicio.runtimeconfig.json
+E:\workspace\POO C#\04ExercicioIMC\bin\Debug\net6.0\04Exercicio.dll
+E:\workspace\POO C#\04ExercicioIMC\bin\Debug\net6.0\04Exercicio.pdb
+E:\workspace\POO C#\04ExercicioIMC\obj\Debug\net6.0\04Exercicio.dll
+E:\workspace\POO C#\04ExercicioIMC\obj\Debug\net6.0\refint\04Exercicio.dll
+E:\workspace\POO C#\04ExercicioIMC\obj\Debug\net6.0\04Exercicio.pdb
+E:\workspace\POO C#\04ExercicioIMC\obj\Debug\net6.0\04Exercicio.genruntimeconfig.cache
+E:\workspace\POO C#\04ExercicioIMC\obj\Debug\net6.0\ref\04Exercicio.dll

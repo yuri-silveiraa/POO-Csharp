@@ -1,0 +1,15 @@
+E:\workspace\POO C#\13Abstração\bin\Debug\net6.0\13Abstração.exe
+E:\workspace\POO C#\13Abstração\bin\Debug\net6.0\13Abstração.deps.json
+E:\workspace\POO C#\13Abstração\bin\Debug\net6.0\13Abstração.runtimeconfig.json
+E:\workspace\POO C#\13Abstração\bin\Debug\net6.0\13Abstração.dll
+E:\workspace\POO C#\13Abstração\bin\Debug\net6.0\13Abstração.pdb
+E:\workspace\POO C#\13Abstração\obj\Debug\net6.0\13Abstração.csproj.AssemblyReference.cache
+E:\workspace\POO C#\13Abstração\obj\Debug\net6.0\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\POO C#\13Abstração\obj\Debug\net6.0\13Abstração.AssemblyInfoInputs.cache
+E:\workspace\POO C#\13Abstração\obj\Debug\net6.0\13Abstração.AssemblyInfo.cs
+E:\workspace\POO C#\13Abstração\obj\Debug\net6.0\13Abstração.csproj.CoreCompileInputs.cache
+E:\workspace\POO C#\13Abstração\obj\Debug\net6.0\13Abstração.dll
+E:\workspace\POO C#\13Abstração\obj\Debug\net6.0\refint\13Abstração.dll
+E:\workspace\POO C#\13Abstração\obj\Debug\net6.0\13Abstração.pdb
+E:\workspace\POO C#\13Abstração\obj\Debug\net6.0\13Abstração.genruntimeconfig.cache
+E:\workspace\POO C#\13Abstração\obj\Debug\net6.0\ref\13Abstração.dll

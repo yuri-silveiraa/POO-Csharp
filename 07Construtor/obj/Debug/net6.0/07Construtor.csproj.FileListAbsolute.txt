@@ -1,0 +1,15 @@
+E:\workspace\POO C#\07Construtor\bin\Debug\net6.0\07Construtor.exe
+E:\workspace\POO C#\07Construtor\bin\Debug\net6.0\07Construtor.deps.json
+E:\workspace\POO C#\07Construtor\bin\Debug\net6.0\07Construtor.runtimeconfig.json
+E:\workspace\POO C#\07Construtor\bin\Debug\net6.0\07Construtor.dll
+E:\workspace\POO C#\07Construtor\bin\Debug\net6.0\07Construtor.pdb
+E:\workspace\POO C#\07Construtor\obj\Debug\net6.0\07Construtor.csproj.AssemblyReference.cache
+E:\workspace\POO C#\07Construtor\obj\Debug\net6.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\POO C#\07Construtor\obj\Debug\net6.0\07Construtor.AssemblyInfoInputs.cache
+E:\workspace\POO C#\07Construtor\obj\Debug\net6.0\07Construtor.AssemblyInfo.cs
+E:\workspace\POO C#\07Construtor\obj\Debug\net6.0\07Construtor.csproj.CoreCompileInputs.cache
+E:\workspace\POO C#\07Construtor\obj\Debug\net6.0\07Construtor.dll
+E:\workspace\POO C#\07Construtor\obj\Debug\net6.0\refint\07Construtor.dll
+E:\workspace\POO C#\07Construtor\obj\Debug\net6.0\07Construtor.pdb
+E:\workspace\POO C#\07Construtor\obj\Debug\net6.0\07Construtor.genruntimeconfig.cache
+E:\workspace\POO C#\07Construtor\obj\Debug\net6.0\ref\07Construtor.dll

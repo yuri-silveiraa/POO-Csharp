@@ -1,0 +1,15 @@
+E:\workspace\POO C#\14Interface\bin\Debug\net6.0\14Interface.exe
+E:\workspace\POO C#\14Interface\bin\Debug\net6.0\14Interface.deps.json
+E:\workspace\POO C#\14Interface\bin\Debug\net6.0\14Interface.runtimeconfig.json
+E:\workspace\POO C#\14Interface\bin\Debug\net6.0\14Interface.dll
+E:\workspace\POO C#\14Interface\bin\Debug\net6.0\14Interface.pdb
+E:\workspace\POO C#\14Interface\obj\Debug\net6.0\14Interface.csproj.AssemblyReference.cache
+E:\workspace\POO C#\14Interface\obj\Debug\net6.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\POO C#\14Interface\obj\Debug\net6.0\14Interface.AssemblyInfoInputs.cache
+E:\workspace\POO C#\14Interface\obj\Debug\net6.0\14Interface.AssemblyInfo.cs
+E:\workspace\POO C#\14Interface\obj\Debug\net6.0\14Interface.csproj.CoreCompileInputs.cache
+E:\workspace\POO C#\14Interface\obj\Debug\net6.0\14Interface.dll
+E:\workspace\POO C#\14Interface\obj\Debug\net6.0\refint\14Interface.dll
+E:\workspace\POO C#\14Interface\obj\Debug\net6.0\14Interface.pdb
+E:\workspace\POO C#\14Interface\obj\Debug\net6.0\14Interface.genruntimeconfig.cache
+E:\workspace\POO C#\14Interface\obj\Debug\net6.0\ref\14Interface.dll

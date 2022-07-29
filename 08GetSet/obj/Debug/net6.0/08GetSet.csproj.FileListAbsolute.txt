@@ -1,0 +1,15 @@
+E:\workspace\POO C#\08GetSet\bin\Debug\net6.0\08GetSet.exe
+E:\workspace\POO C#\08GetSet\bin\Debug\net6.0\08GetSet.deps.json
+E:\workspace\POO C#\08GetSet\bin\Debug\net6.0\08GetSet.runtimeconfig.json
+E:\workspace\POO C#\08GetSet\bin\Debug\net6.0\08GetSet.dll
+E:\workspace\POO C#\08GetSet\bin\Debug\net6.0\08GetSet.pdb
+E:\workspace\POO C#\08GetSet\obj\Debug\net6.0\08GetSet.csproj.AssemblyReference.cache
+E:\workspace\POO C#\08GetSet\obj\Debug\net6.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\POO C#\08GetSet\obj\Debug\net6.0\08GetSet.AssemblyInfoInputs.cache
+E:\workspace\POO C#\08GetSet\obj\Debug\net6.0\08GetSet.AssemblyInfo.cs
+E:\workspace\POO C#\08GetSet\obj\Debug\net6.0\08GetSet.csproj.CoreCompileInputs.cache
+E:\workspace\POO C#\08GetSet\obj\Debug\net6.0\08GetSet.dll
+E:\workspace\POO C#\08GetSet\obj\Debug\net6.0\refint\08GetSet.dll
+E:\workspace\POO C#\08GetSet\obj\Debug\net6.0\08GetSet.pdb
+E:\workspace\POO C#\08GetSet\obj\Debug\net6.0\08GetSet.genruntimeconfig.cache
+E:\workspace\POO C#\08GetSet\obj\Debug\net6.0\ref\08GetSet.dll

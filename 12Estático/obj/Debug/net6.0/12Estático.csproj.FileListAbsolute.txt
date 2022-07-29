@@ -1,0 +1,15 @@
+E:\workspace\POO C#\12Estático\bin\Debug\net6.0\12Estático.exe
+E:\workspace\POO C#\12Estático\bin\Debug\net6.0\12Estático.deps.json
+E:\workspace\POO C#\12Estático\bin\Debug\net6.0\12Estático.runtimeconfig.json
+E:\workspace\POO C#\12Estático\bin\Debug\net6.0\12Estático.dll
+E:\workspace\POO C#\12Estático\bin\Debug\net6.0\12Estático.pdb
+E:\workspace\POO C#\12Estático\obj\Debug\net6.0\12Estático.csproj.AssemblyReference.cache
+E:\workspace\POO C#\12Estático\obj\Debug\net6.0\12Estático.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\POO C#\12Estático\obj\Debug\net6.0\12Estático.AssemblyInfoInputs.cache
+E:\workspace\POO C#\12Estático\obj\Debug\net6.0\12Estático.AssemblyInfo.cs
+E:\workspace\POO C#\12Estático\obj\Debug\net6.0\12Estático.csproj.CoreCompileInputs.cache
+E:\workspace\POO C#\12Estático\obj\Debug\net6.0\12Estático.dll
+E:\workspace\POO C#\12Estático\obj\Debug\net6.0\refint\12Estático.dll
+E:\workspace\POO C#\12Estático\obj\Debug\net6.0\12Estático.pdb
+E:\workspace\POO C#\12Estático\obj\Debug\net6.0\12Estático.genruntimeconfig.cache
+E:\workspace\POO C#\12Estático\obj\Debug\net6.0\ref\12Estático.dll

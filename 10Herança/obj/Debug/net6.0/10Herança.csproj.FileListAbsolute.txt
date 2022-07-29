@@ -1,0 +1,15 @@
+E:\workspace\POO C#\10Herança\bin\Debug\net6.0\10Herança.exe
+E:\workspace\POO C#\10Herança\bin\Debug\net6.0\10Herança.deps.json
+E:\workspace\POO C#\10Herança\bin\Debug\net6.0\10Herança.runtimeconfig.json
+E:\workspace\POO C#\10Herança\bin\Debug\net6.0\10Herança.dll
+E:\workspace\POO C#\10Herança\bin\Debug\net6.0\10Herança.pdb
+E:\workspace\POO C#\10Herança\obj\Debug\net6.0\10Herança.csproj.AssemblyReference.cache
+E:\workspace\POO C#\10Herança\obj\Debug\net6.0\10Herança.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\POO C#\10Herança\obj\Debug\net6.0\10Herança.AssemblyInfoInputs.cache
+E:\workspace\POO C#\10Herança\obj\Debug\net6.0\10Herança.AssemblyInfo.cs
+E:\workspace\POO C#\10Herança\obj\Debug\net6.0\10Herança.csproj.CoreCompileInputs.cache
+E:\workspace\POO C#\10Herança\obj\Debug\net6.0\10Herança.dll
+E:\workspace\POO C#\10Herança\obj\Debug\net6.0\refint\10Herança.dll
+E:\workspace\POO C#\10Herança\obj\Debug\net6.0\10Herança.pdb
+E:\workspace\POO C#\10Herança\obj\Debug\net6.0\10Herança.genruntimeconfig.cache
+E:\workspace\POO C#\10Herança\obj\Debug\net6.0\ref\10Herança.dll

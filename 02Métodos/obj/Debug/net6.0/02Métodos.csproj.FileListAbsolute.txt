@@ -1,0 +1,15 @@
+E:\workspace\POO C#\02Métodos\bin\Debug\net6.0\02Métodos.exe
+E:\workspace\POO C#\02Métodos\bin\Debug\net6.0\02Métodos.deps.json
+E:\workspace\POO C#\02Métodos\bin\Debug\net6.0\02Métodos.runtimeconfig.json
+E:\workspace\POO C#\02Métodos\bin\Debug\net6.0\02Métodos.dll
+E:\workspace\POO C#\02Métodos\bin\Debug\net6.0\02Métodos.pdb
+E:\workspace\POO C#\02Métodos\obj\Debug\net6.0\02Métodos.csproj.AssemblyReference.cache
+E:\workspace\POO C#\02Métodos\obj\Debug\net6.0\02Métodos.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\POO C#\02Métodos\obj\Debug\net6.0\02Métodos.AssemblyInfoInputs.cache
+E:\workspace\POO C#\02Métodos\obj\Debug\net6.0\02Métodos.AssemblyInfo.cs
+E:\workspace\POO C#\02Métodos\obj\Debug\net6.0\02Métodos.csproj.CoreCompileInputs.cache
+E:\workspace\POO C#\02Métodos\obj\Debug\net6.0\02Métodos.dll
+E:\workspace\POO C#\02Métodos\obj\Debug\net6.0\refint\02Métodos.dll
+E:\workspace\POO C#\02Métodos\obj\Debug\net6.0\02Métodos.pdb
+E:\workspace\POO C#\02Métodos\obj\Debug\net6.0\02Métodos.genruntimeconfig.cache
+E:\workspace\POO C#\02Métodos\obj\Debug\net6.0\ref\02Métodos.dll

@@ -1,0 +1,15 @@
+E:\workspace\POO C#\09This\bin\Debug\net6.0\09This.exe
+E:\workspace\POO C#\09This\bin\Debug\net6.0\09This.deps.json
+E:\workspace\POO C#\09This\bin\Debug\net6.0\09This.runtimeconfig.json
+E:\workspace\POO C#\09This\bin\Debug\net6.0\09This.dll
+E:\workspace\POO C#\09This\bin\Debug\net6.0\09This.pdb
+E:\workspace\POO C#\09This\obj\Debug\net6.0\09This.csproj.AssemblyReference.cache
+E:\workspace\POO C#\09This\obj\Debug\net6.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\POO C#\09This\obj\Debug\net6.0\09This.AssemblyInfoInputs.cache
+E:\workspace\POO C#\09This\obj\Debug\net6.0\09This.AssemblyInfo.cs
+E:\workspace\POO C#\09This\obj\Debug\net6.0\09This.csproj.CoreCompileInputs.cache
+E:\workspace\POO C#\09This\obj\Debug\net6.0\09This.dll
+E:\workspace\POO C#\09This\obj\Debug\net6.0\refint\09This.dll
+E:\workspace\POO C#\09This\obj\Debug\net6.0\09This.pdb
+E:\workspace\POO C#\09This\obj\Debug\net6.0\09This.genruntimeconfig.cache
+E:\workspace\POO C#\09This\obj\Debug\net6.0\ref\09This.dll

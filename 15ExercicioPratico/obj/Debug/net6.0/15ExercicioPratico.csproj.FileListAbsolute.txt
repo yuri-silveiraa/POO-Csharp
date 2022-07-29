@@ -1,0 +1,15 @@
+E:\workspace\POO C#\15ExercicioPratico\bin\Debug\net6.0\15ExercicioPratico.exe
+E:\workspace\POO C#\15ExercicioPratico\bin\Debug\net6.0\15ExercicioPratico.deps.json
+E:\workspace\POO C#\15ExercicioPratico\bin\Debug\net6.0\15ExercicioPratico.runtimeconfig.json
+E:\workspace\POO C#\15ExercicioPratico\bin\Debug\net6.0\15ExercicioPratico.dll
+E:\workspace\POO C#\15ExercicioPratico\bin\Debug\net6.0\15ExercicioPratico.pdb
+E:\workspace\POO C#\15ExercicioPratico\obj\Debug\net6.0\15ExercicioPratico.csproj.AssemblyReference.cache
+E:\workspace\POO C#\15ExercicioPratico\obj\Debug\net6.0\15ExercicioPratico.GeneratedMSBuildEditorConfig.editorconfig
+E:\workspace\POO C#\15ExercicioPratico\obj\Debug\net6.0\15ExercicioPratico.AssemblyInfoInputs.cache
+E:\workspace\POO C#\15ExercicioPratico\obj\Debug\net6.0\15ExercicioPratico.AssemblyInfo.cs
+E:\workspace\POO C#\15ExercicioPratico\obj\Debug\net6.0\15ExercicioPratico.csproj.CoreCompileInputs.cache
+E:\workspace\POO C#\15ExercicioPratico\obj\Debug\net6.0\15ExercicioPratico.dll
+E:\workspace\POO C#\15ExercicioPratico\obj\Debug\net6.0\refint\15ExercicioPratico.dll
+E:\workspace\POO C#\15ExercicioPratico\obj\Debug\net6.0\15ExercicioPratico.pdb
+E:\workspace\POO C#\15ExercicioPratico\obj\Debug\net6.0\15ExercicioPratico.genruntimeconfig.cache
+E:\workspace\POO C#\15ExercicioPratico\obj\Debug\net6.0\ref\15ExercicioPratico.dll
